@@ -22,7 +22,11 @@ Esta aplicação seleciona um amigo secreto a partir de uma lista de nomes inser
 - **HTML**: Estrutura da página.
 - **CSS**: Estilização e layout responsivo.
 - **JavaScript**: Lógica do jogo, validações e interatividade.
-    
-
-
-
+   
+![Captura de tela de 2025-03-06 15-05-57](https://github.com/user-attachments/assets/16469601-17bb-4ca2-891c-15911d0a6c53)
+![Captura de tela de 2025-03-06 15-06-30](https://github.com/user-attachments/assets/200953bb-58e8-49f9-814e-c79b163ddf08)
+![Captura de tela de 2025-03-06 15-06-52](https://github.com/user-attachments/assets/a83f0f67-c125-4dba-a88e-8190a8715158)
+![Captura de tela de 2025-03-06 15-07-16](https://github.com/user-attachments/assets/150d4b4c-5304-4baa-b5b3-d46b52d55e90)
+![Captura de tela de 2025-03-06 15-07-28](https://github.com/user-attachments/assets/5f53ab19-1d99-4088-9c88-fd45fb5b526a)
+![Captura de tela de 2025-03-06 15-07-52](https://github.com/user-attachments/assets/3baeb410-d75a-4d41-b948-d182932c9ef6)
+![Captura de tela de 2025-03-06 15-08-09](https://github.com/user-attachments/assets/f363bafb-6f45-4a51-a1f6-d4052c1ee357)
